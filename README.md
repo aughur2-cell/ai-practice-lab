@@ -1,14 +1,14 @@
-# 📘 C++ Programs
+<div align="center">
 
-A collection of beginner to intermediate C++ programs covering core programming concepts.
+# C++ Practice
+
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
+
+A collection of all my C++ practice programs written while learning the language.  
+Each file covers a different concept — from basics to beyond.
 
 ---
 
-## 📁 Programs Included
+*Learning one program at a time.*
 
-### 🔢 Multiplication Table
-Generates a multiplication table for any number up to a user-defined length.
-
-**Concepts used:** `for` loop, user input, arithmetic operations
-
-```cpp
+</div>
