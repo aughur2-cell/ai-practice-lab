@@ -1,0 +1,18 @@
+#include<iostream>
+using namespace std;
+
+int main()
+{
+  int num, len;
+  
+  cout<< "Enter the number of table:";
+  cin>> num;
+  
+  cout << "Enter the Length of table:";
+  cin>> len;
+  
+  
+  for(int i=1; i<=len; i++)
+    cout << num << "x" << i << "=" << num*i << "\n";
+    
+}
